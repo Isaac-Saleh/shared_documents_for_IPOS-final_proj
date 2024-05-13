@@ -75,6 +75,10 @@ any moderations they deem appropriate.
 
 <hr>
 
+- Nature of the violation
+- Severity of the impact
+- Prior history
+
 #### Attribution
 
 This Code of Conduct is adapted from the GITHUB documents template for "code of conduct" found when adding a file of the
