@@ -67,6 +67,10 @@ any moderations they deem appropriate.
 
 <hr>
 
+- Reporting a Violation
+- Possible Consequences
+- Additional Considerations
+
 ### Enforcement Guidelines
 
 <hr>
