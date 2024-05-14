@@ -67,9 +67,7 @@ any moderations they deem appropriate.
 
 <hr>
 
-- Reporting a Violation
-- Possible Consequences
-- Additional Considerations
+Community leaders will take action to address violations of the Code of Conduct. The specific consequences will depend on the severity of the violation.
 
 ### Enforcement Guidelines
 
